@@ -1,0 +1,62 @@
+html {
+    background: #556D81;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Form container */
+#container {
+    text-align: left;
+    width:700px;
+    max-width:90%;
+    margin:10px auto;
+    padding: 20px 12px 10px 20px;
+    background-color: #848D95;
+    box-shadow: 0 10px 20px, 0 6px 6px;  
+    font-size: 30px; 
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Merriweather', sans-serif;
+}
+
+/* Section borders */
+#borders {
+    border: 2px solid #000000;
+    padding: 15px
+}
+
+/* Paragraph */
+p {
+    text-align: center;
+    font-size: 15px;
+    color: #6E0D25;
+    padding-top: 35px;
+}    
+
+/* Input fields */
+input {
+    box-shadow: 0 0px 5px, 0 6px 6px;
+}
+
+/* Make omment box bigger */
+.resizedtextbox {
+    width: 250px;
+    height: 50px;
+}
+
+/* Gender options */
+span {
+    font-size: 17px;
+    margin-top: -25px;
+}
+
+/* Dropdown box */
+.dropdown {
+    font-size: 20px;
+    font-family: 'Merriweather', sans-serif;
+}
